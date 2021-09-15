@@ -18,6 +18,7 @@
 
 #### WordCount (2):
 ##### Ejecución normal: 
+![image](https://user-images.githubusercontent.com/65041178/133466180-d46b7f41-f007-4c36-88cb-8cece5058dde.png)
 ![image](https://user-images.githubusercontent.com/65041178/133153247-92bf8f0b-c37a-4f8f-960f-3d57873c0b5b.png)
 ##### Ejecución modificada ():
 
