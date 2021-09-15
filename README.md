@@ -23,7 +23,34 @@
 
 ## Parte 4:
 
+### Pyspark basics:
 ![image](https://user-images.githubusercontent.com/65041178/133351761-4a31e612-4360-402b-8dc4-21d4aa4c87c6.png)
+![image](https://user-images.githubusercontent.com/65041178/133463000-753e6408-cc3c-4a1e-9e86-2ef3d6af833e.png)
+-
+![image](https://user-images.githubusercontent.com/65041178/133463067-3605c5bd-879d-4864-8d3b-288a83256b38.png)
+-
+![image](https://user-images.githubusercontent.com/65041178/133463133-d7f0a965-a867-4040-8805-a0cff57b5e6f.png)
+-
+![image](https://user-images.githubusercontent.com/65041178/133463213-8c5f0e3b-93b1-431b-9677-b9e0d977f205.png)
+-
+![image](https://user-images.githubusercontent.com/65041178/133463266-e7fc059f-bb39-4c43-be80-a295341f60cc.png)
+-
+![image](https://user-images.githubusercontent.com/65041178/133463311-ba78f740-6e4e-4e73-ab84-014079be399e.png)
+-
+![image](https://user-images.githubusercontent.com/65041178/133463802-461900d9-2640-400e-b36e-aa167f2ac044.png)
+-
 
+### Pyspark data analysis:
 
-
+![image](https://user-images.githubusercontent.com/65041178/133465351-8cdceaff-c565-4d26-9d89-51d21be13a61.png)
+-
+![image](https://user-images.githubusercontent.com/65041178/133465401-2243b2b5-50f4-48aa-a3f9-bea75ea66a7a.png)
+-
+![image](https://user-images.githubusercontent.com/65041178/133465479-4dec174b-8550-4747-b593-5a7e4707609b.png)
+-
+![image](https://user-images.githubusercontent.com/65041178/133465598-c2064c47-38f5-4b52-aaf5-238d3cc361dc.png)
+-
+![image](https://user-images.githubusercontent.com/65041178/133465664-f14d5edb-7104-422c-b941-585d77360db6.png)
+-
+![image](https://user-images.githubusercontent.com/65041178/133465701-abf0b752-f0b6-4e55-9545-5c6daf58b489.png)
+-
