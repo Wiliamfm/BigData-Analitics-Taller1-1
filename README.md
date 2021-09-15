@@ -21,4 +21,9 @@
 ![image](https://user-images.githubusercontent.com/65041178/133153247-92bf8f0b-c37a-4f8f-960f-3d57873c0b5b.png)
 ##### Ejecución modificada ():
 
+## Parte 4:
+
+![image](https://user-images.githubusercontent.com/65041178/133351761-4a31e612-4360-402b-8dc4-21d4aa4c87c6.png)
+
+
 
