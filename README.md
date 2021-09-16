@@ -1,5 +1,9 @@
 # BigData & Analitics-Taller1-1
 
+Integrantes:
+William Fonseca
+-Moisés Salcedo
+
 ## Parte 1:
 Instalamos Hadoop en ubuntu
 
