@@ -14,7 +14,8 @@ Podemos ver como se puede ejecutar desde el browser
 
 También podemos ver los nodos que se estan corriendo con el comando jps
 
-![image](https://user-images.githubusercontent.com/53981601/133572569-45744157-03f4-4c88-a3c3-09487cfbcdbd.png)
+![image](https://user-images.githubusercontent.com/53981601/133572880-0d71b9cf-10f5-4714-9db8-b657b097b69e.png)
+
 
 
 
