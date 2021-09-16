@@ -24,12 +24,26 @@ También podemos ver los nodos que se estan corriendo con el comando jps
 
 
 ## Parte 2:
-#### Creamos los directorios HDFS que se neesitan para ejecutar tareas de MapReduce
+#### 4. Creamos los directorios HDFS que se neesitan para ejecutar tareas de MapReduce
+![image](https://user-images.githubusercontent.com/53981601/133671605-7748332a-5fc2-4efb-8570-21973abe2f3a.png)
+![image](https://user-images.githubusercontent.com/53981601/133672111-f6f58fe0-9930-47a1-8830-c39a3dbc3a19.png)
 
+#### 5. Copiamos los archivos en el sistema de archivos distribuido
+![image](https://user-images.githubusercontent.com/53981601/133672440-1f428256-f96d-4264-9294-e52c57b857ca.png)
+![image](https://user-images.githubusercontent.com/53981601/133672523-bca9e7b4-083f-47a4-b31d-5402c9947d9a.png)
 
+#### 6. Corremos algunos de los ejemplos dados
+![image](https://user-images.githubusercontent.com/53981601/133672613-2bd049bb-eac6-48eb-8ccb-a236e6722b63.png)
 
-#### Carga de archivos a la carpeta input:
+####  Vemos los archivos cargados en la carpeta input:
 ![image](https://user-images.githubusercontent.com/65041178/133121517-4aee3314-12ff-413d-b104-50e19e7388a2.png)
+
+#### ¿Qué resultados generó el programa y cuales son los pasos MapReduce que implementa?
+  El programa genera la cantidad de archivos de entrada que van a ser ejecutados por MapReduce, lo que hacer MapReduce es mapear
+  y reducir, mapear se encarga de producir los pares clave valor de los archivos y a partir de estas los archivos de entrada
+  se dividen en en varias tareas o FileSplit.
+  Por su parte las tareas de reducir toman los nodos mapeados y estos son ordenados de forma que los pares clave valor sean continuos.
+  Esto lo que logra es que al final de cada tarea de reduce solo se obtenaga un archivo combinado.
 
 ## Parte 3:
 
