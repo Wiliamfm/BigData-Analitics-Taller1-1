@@ -1,10 +1,13 @@
 # BigData & Analitics-Taller1-1
 
 ## Parte 1:
+Instalamos Hadoop en ubuntu
+![image](https://user-images.githubusercontent.com/53981601/133567064-cd29a7d5-7bba-4259-b060-c0ce1c1d10e2.png)
 
-/home/moises/Pictures/Screenshot from 2021-09-16 02-04-47.png
 ![image](https://user-images.githubusercontent.com/65041178/133100101-c15f0097-9687-4b2b-b431-a6a4f0ebc985.png)
+
 ![image](https://user-images.githubusercontent.com/65041178/133100348-c702709e-f092-4a1a-b6b6-8e57628b6134.png)
+
 ![image](https://user-images.githubusercontent.com/65041178/133100447-1597637f-5524-4a03-ad94-990c20a9e733.png)
 
 ## Parte 2:
