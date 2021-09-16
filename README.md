@@ -24,6 +24,9 @@ También podemos ver los nodos que se estan corriendo con el comando jps
 
 
 ## Parte 2:
+#### Creamos los directorios HDFS que se neesitan para ejecutar tareas de MapReduce
+
+
 
 #### Carga de archivos a la carpeta input:
 ![image](https://user-images.githubusercontent.com/65041178/133121517-4aee3314-12ff-413d-b104-50e19e7388a2.png)
