@@ -2,6 +2,7 @@
 
 ## Parte 1:
 Instalamos Hadoop en ubuntu
+
 ![image](https://user-images.githubusercontent.com/53981601/133567064-cd29a7d5-7bba-4259-b060-c0ce1c1d10e2.png)
 
 ![image](https://user-images.githubusercontent.com/65041178/133100101-c15f0097-9687-4b2b-b431-a6a4f0ebc985.png)
