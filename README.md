@@ -58,6 +58,13 @@ También podemos ver los nodos que se estan corriendo con el comando jps
 
 ## Parte 4:
 
+1. Para este punto clonamos el repositorio unicado en la url https://github.com/bigdata-unbosque/SparkTutorial
+A la vez hicimos la descarga y la descompresión de los archivos de la URL https://www.kaggle.com/dinnymathew/usstockprices
+
+2.  Para la ejecución de este archivo hicimos el descargue de la distribución de python anaconda, para esto accedimos
+a la siguiente URL https://www.anaconda.com/products/individual
+
+
 ### Pyspark basics:
 ![image](https://user-images.githubusercontent.com/65041178/133351761-4a31e612-4360-402b-8dc4-21d4aa4c87c6.png)
 ![image](https://user-images.githubusercontent.com/65041178/133463000-753e6408-cc3c-4a1e-9e86-2ef3d6af833e.png)
