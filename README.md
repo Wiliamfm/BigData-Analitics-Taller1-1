@@ -64,7 +64,12 @@ A la vez hicimos la descarga y la descompresión de los archivos de la URL https
 2.  Para la ejecución de este archivo hicimos el descargue de la distribución de python anaconda, para esto accedimos
 a la siguiente URL https://www.anaconda.com/products/individual
 
-
+4. Despues de haber instlado el paquete de Anaconda se pudo hacer uso de Jupyter Notebook despues de dirigirnos 
+a la siguiente URL  http://<puerto>:8888/lab/
+ ![image](https://user-images.githubusercontent.com/53981601/133722844-dc4d5175-a1a0-4ee9-a0c3-89c07dd06891.png)
+5. Por pultimo se ejecutaron los dos scripts indicados en el punto 4 de la parte 4 del taller. A continuación mostramos el paso a paso del desarrollo. 
+  
+  
 ### Pyspark basics:
 ![image](https://user-images.githubusercontent.com/65041178/133351761-4a31e612-4360-402b-8dc4-21d4aa4c87c6.png)
 ![image](https://user-images.githubusercontent.com/65041178/133463000-753e6408-cc3c-4a1e-9e86-2ef3d6af833e.png)
